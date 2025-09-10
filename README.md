@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/jupyter_notebook-white?logo=jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/postgresql-white?logo=postgresql&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/yandexdatalens-white?style=for-the-badge&logoColor=yellow" title="YandexDatalens" alt="YandexDatalens" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/yandex_datalens-white?style=for-the-badge&logoColor=yellow" title="Yandex" alt="Yandex" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/statsmodels-white?style=for-the-badge" title="Statsmodels" alt="Statsmodels" height="40"/>&nbsp; 
 </div>
@@ -42,7 +42,7 @@
 ### :point_down: Мои проекты :
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Анализ и обработка профилей ФЛ/ЮЛ из Elasticsearch  (__[github](https://github.com/Kriuchkova-alina/elasticsearch-profile-analysis)__)|Очистка и подготовка данных, поиск ошибок, формирование итогового отчета для бизнеса, расчет метрик и их визуализация.|pandas, seaborn, matplotlib|
-|Marketplace Data Analysis: Retention, PMF, and Growth Metrics  (__[github](https://github.com/Kriuchkova-alina/marketplace-product-analytics)__)|EDA, когортный анализ, расчет и анализ продуктовых метрик(Revenue, MAU, ARPPU). Определение product/market fit, приоритезация гипотез по ICE. |pandas, seaborn, matplotlib, ICE|
-|Дашборд для маркетплейса по анализу удовлетворенности покупателей  (__[github](https://github.com/Kriuchkova-alina/Customer-Satisfaction-Dashboard)__)|EDA, формирование дашборда по запросу бизнеса|pandas, Yandex Datalens|
+|(__[Анализ и обработка профилей ФЛ/ЮЛ из Elasticsearch](https://github.com/Kriuchkova-alina/elasticsearch-profile-analysis)__)|Очистка и подготовка данных, поиск ошибок, формирование итогового отчета для бизнеса, расчет метрик и их визуализация.|pandas, seaborn, matplotlib|
+|(__[Marketplace Data Analysis: Retention, PMF, and Growth Metrics](https://github.com/Kriuchkova-alina/marketplace-product-analytics)__)|EDA, когортный анализ, расчет и анализ продуктовых метрик(Revenue, MAU, ARPPU). Определение product/market fit, приоритезация гипотез по ICE. |pandas, seaborn, matplotlib, ICE|
+|(__[Дашборд для маркетплейса по анализу удовлетворенности покупателей](https://github.com/Kriuchkova-alina/Customer-Satisfaction-Dashboard)__)|EDA, формирование дашборда по запросу бизнеса.|pandas, Yandex Datalens|
 
