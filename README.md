@@ -10,6 +10,7 @@
   </a>
 </div>
 <h1>
+</div>
   Привет! Меня зовут Алина 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
