@@ -12,14 +12,17 @@
 </div>
 
 <h1 align="center">
-  Привет! Меня зовут Алина 
+  Hi! I'm Alina 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
 </h1>
+
 ### :woman_technologist: About Me :
+
 - занимаюсь аналитикой данных и продуктовой аналитикой
 - открыта к сотрудничеству :handshake:
 - к аналитике меня привел интерес изучения данных отделов продаж и выстраивания гипотез на их основе
 - в свободное время люблю читать классическую литературу и рисовать иллюстрации :open_book:
+
 ---
 
 ### :hammer_and_wrench: Стек :
@@ -27,11 +30,19 @@
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/scipy-white?logo=scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/jupyter_notebook-white?logo=jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/postgresql-white?logo=postgresql&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/yandexdatalens-white?style=for-the-badge&logoColor=yellow" title="YandexDatalens" alt="YandexDatalens" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/statsmodels-white?logo=statsmodels&logoColor=black&style=for-the-badge" title="Statsmodels" alt="Statsmodels" height="40"/>&nbsp; 
+  <img src="https://img.shields.io/badge/statsmodels-white?style=for-the-badge" title="Statsmodels" alt="Statsmodels" height="40"/>&nbsp; 
 </div>
+
+### :point_down: Мои проекты :
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|Анализ и обработка профилей ФЛ/ЮЛ из Elasticsearch  (__[github](https://github.com/Kriuchkova-alina/elasticsearch-profile-analysis)__)|Очистка и подготовка данных, поиск ошибок, формирование итогового отчета для бизнеса, расчет метрик и их визуализация.|pandas, seaborn, matplotlib|
+|Marketplace Data Analysis: Retention, PMF, and Growth Metrics  (__[github](https://github.com/Kriuchkova-alina/marketplace-product-analytics)__)|EDA, когортный анализ, расчет и анализ продуктовых метрик(Revenue, MAU, ARPPU). Определение product/market fit, приоритезация гипотез по ICE. |pandas, seaborn, matplotlib, ICE|
+|Дашборд для маркетплейса по анализу удовлетворенности покупателей  (__[github](https://github.com/Kriuchkova-alina/Customer-Satisfaction-Dashboard)__)|EDA, формирование дашборда по запросу бизнеса|pandas, Yandex Datalens|
+
