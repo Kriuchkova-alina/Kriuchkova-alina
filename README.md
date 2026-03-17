@@ -42,6 +42,7 @@
 ### :point_down: Мои проекты :
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
+|(__[Исследование типовых запросов клиентов из Личного кабинета, которые можно автоматизировать]([https://github.com/Kriuchkova-alina/edtech-student-behavior](https://github.com/Kriuchkova-alina/request_automatization_research))__)|Моделирование влияния изменений на метрики и их визуализация, определение топ тем и категорий, исследование поведения пользователей, выдвижение гипотез и предложений|clickhouse, metabase|
 |(__[Анализ и обработка профилей ФЛ/ЮЛ из Elasticsearch](https://github.com/Kriuchkova-alina/elasticsearch-profile-analysis)__|Очистка и подготовка данных, поиск ошибок, формирование итогового отчета для бизнеса, расчет метрик и их визуализация.|pandas, seaborn, matplotlib|
 |(__[Marketplace Data Analysis: Retention, PMF, and Growth Metrics](https://github.com/Kriuchkova-alina/marketplace-product-analytics)__)|EDA, когортный анализ, расчет и анализ продуктовых метрик(Revenue, MAU, ARPPU). Определение product/market fit, приоритезация гипотез по ICE. |pandas, seaborn, matplotlib, ICE|
 |(__[Дашборд для маркетплейса по анализу удовлетворенности покупателей](https://github.com/Kriuchkova-alina/Customer-Satisfaction-Dashboard)__)|EDA, формирование дашборда по запросу бизнеса.|pandas, Yandex Datalens|
